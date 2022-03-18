@@ -22,8 +22,6 @@ def card_pick(num=1, shuffle=1):
             result.append(suit + '_' + card_number)
         else:
             
-            result.append('major number ' + str(card))
+            result.append('major # ' + str(card))
     
     return result
-
-card_pick(2, 39)
