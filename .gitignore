@@ -151,3 +151,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 SOM/Credit_Card_Applications.csv
+k-water_temp/data/water_flow.csv
